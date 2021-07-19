@@ -3,3 +3,6 @@
 ################################################################################
 
 /SerieRegister/.vs/SerieRegister/v16
+/.vs
+/SerieRegister/SerieRegister/bin/Debug/net5.0
+/SerieRegister/SerieRegister/obj
